@@ -30,8 +30,7 @@ I'm Currently doing my final year specialized in Computer Science and Engineerin
 ###
 
 
-<img align="right" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7d484dc9-68a9-4ee6-a767-aea59035c12d" width="400">
-<img height="250" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" align="right" />
+<img align="right" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7d484dc9-68a9-4ee6-a767-aea59035c12d" width="350">
 
 
 
@@ -43,6 +42,7 @@ I'm Currently doing my final year specialized in Computer Science and Engineerin
   <img src ="https://github-readme-streak-stats.herokuapp.com/?user=Vijay-Bala&theme=radical&hide_border=false" height="150" alt="stats" />
 </div>
 
+<img height="250" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" align="right" />
 ###
 <!--
 <img src="https://raw.githubusercontent.com/Vijay-Bala/Vijay-Bala/output/snake.svg" alt="Snake animation" />
