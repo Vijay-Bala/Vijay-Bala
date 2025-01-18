@@ -16,7 +16,11 @@ Here are some ideas to get you started:
 -->
 
 # 💫 About Me:
-I'm Currently doing my final year specialized in Computer Science and Engineering
+Guided by curiosity, driven by challenges,
+I build with tools like React, Flutter, and .NET,
+Turning ideas into experiences that inspire.
+Beyond code, I find balance in books, music, and nature—
+Always growing, always creating.
 
 
 # 🌐 Socials:
