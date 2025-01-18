@@ -26,7 +26,7 @@ I'm Currently doing my final year specialized in Computer Science and Engineerin
 
 # 📊 GitHub Stats:
 <div align="center">
-  <table border="0">
+  <table style="border-collapse: collapse; border: none;">
     <tr>
       <!-- GitHub Stats Section -->
       <td>
