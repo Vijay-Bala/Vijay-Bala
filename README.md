@@ -19,8 +19,10 @@ Here are some ideas to get you started:
 Guided by curiosity, driven by challenges,
 I build with tools like React, Flutter, and .NET,
 Turning ideas into experiences that inspire.
-Beyond code, I find balance in books, music, and nature—
-Always growing, always creating.
+Beyond the keyboard lies a world of balance - 
+Books to expand the mind, melodies to soothe the soul,
+And gardens to remind me of growth’s quiet persistence.
+Welcome to my digital odyssey!!!
 
 
 # 🌐 Socials:
