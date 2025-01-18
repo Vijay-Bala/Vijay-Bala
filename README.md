@@ -15,19 +15,18 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
- 💫 About Me:
+# 💫 About Me:
 I'm Currently doing my final year specialized in Computer Science and Engineering
 
 
-🌐 Socials:
+# 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/vijaybala7604/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=leetcode&logoColor=white)](https://leetcode.com/u/Vijay_7604/)
 
-📊 GitHub Stats:
 
 # 📊 GitHub Stats:
 <div align="center">
-  <table>
+  <table border=none>
     <tr>
       <!-- GitHub Stats Section -->
       <td>
@@ -50,7 +49,7 @@ I'm Currently doing my final year specialized in Computer Science and Engineerin
 
 
 
- 💻 Tech Stack:
+# 💻 Tech Stack:
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
