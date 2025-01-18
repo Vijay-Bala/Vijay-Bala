@@ -29,7 +29,10 @@ I'm Currently doing my final year specialized in Computer Science and Engineerin
 
 ###
 
+
+<img align="right" height="250" src="[https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif](https://private-user-images.githubusercontent.com/74038190/238355349-7d484dc9-68a9-4ee6-a767-aea59035c12d.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzcyMzMxMTEsIm5iZiI6MTczNzIzMjgxMSwicGF0aCI6Ii83NDAzODE5MC8yMzgzNTUzNDktN2Q0ODRkYzktNjhhOS00ZWU2LWE3NjctYWVhNTkwMzVjMTJkLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAxMTglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMTE4VDIwNDAxMVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTM2YTVjMjdkNWIxMGQyMDJkMDZkOGU1MmUwYjc3YzJiM2FiZDM3OGRhOTIxMzMxNmZkZTdmYWFkOTk4OGI5OTMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.azxbY7l5B_yPTIwPeT9FCTJm-YGLPdrMwSEawhSAlm0)"  />
 <img align="right" height="250" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif"  />
+
 
 ###
 
