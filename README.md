@@ -40,9 +40,9 @@ I'm Currently doing my final year specialized in Computer Science and Engineerin
 </div>
 
 ###
-
+<!--
 <img src="https://raw.githubusercontent.com/Vijay-Bala/Vijay-Bala/output/snake.svg" alt="Snake animation" />
-
+-->
 ###
 # 💻 Tech Stack:
 <div align="left">
